@@ -1,6 +1,7 @@
 {
 	"author": "yousif-shafee",
 	"description": "This Project to complete FreeCodeCamp course about back-end   development by node.js",
+	"keywords": ["freecodecamp", "back-end", "course", "study"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
